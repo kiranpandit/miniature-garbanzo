@@ -6,11 +6,12 @@ body {
 }
 
 body {
-    font-family: serif;
+    font-family: "Palatino";
+    background-color: #ebe1ff;
 }
 
 h1 {
-    color: #2e1e53;
+    color: #382465;
 }
 
 h2 {
