@@ -8,6 +8,11 @@ body {
 body {
     font-family: "Palatino";
     background-color: #ebe1ff;
+    font-size: 17px;
+}
+
+.recipe {
+    max-width: 600px;
 }
 
 h1 {
